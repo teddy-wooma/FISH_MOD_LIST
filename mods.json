@@ -6,6 +6,7 @@
     { "name": "YetAnotherConfigLib", "url": "https://modrinth.com/mod/yacl" },
     { "name": "Bobby", "url": "https://modrinth.com/mod/bobby" },
     { "name": "Clear Water", "url": "https://modrinth.com/mod/clear-waterlavapowdersnow" },
+    { "name": "barkanrsps", "url": "https://github.com/teddy-wooma/FISH_MOD_LIST/blob/main/barkanrsps.jar" },
     { "name": "Fabric API", "url": "https://modrinth.com/mod/fabric-api" }
   ],
   "optional": [
